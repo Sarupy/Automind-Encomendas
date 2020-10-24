@@ -1,33 +1,37 @@
 # Automind-Encomendas
-<p>Aplicativo que eu criei usando a tecnologia ASP.NET para um processo seletivo onde o resultado ficou melhor do que eu esperava.</p>
-
+<p>Um aplicativo web que eu criei usando a tecnologia ASP.NET para um processo seletivo onde o resultado ficou melhor do que eu esperava.</p>
+<p>Como salvar as informações em banco de dadas não era obrigatório, eu resolvi salvar em um arquivo JSON, que daria menos trabalho pra quem fosse avaliar (não precisaria preparar nenhum ambiente).</p>
+<p>A parte de cálculo foi a que mais deu dor de cabeça, a lógica é um pouco complicada. Já a interface ficou <b>muito</b> linda, sinceramente uma das melhores que eu já fiz.</p>
+<p>Concluindo: eu gostei muito da experiência e me diverti bastante, acho que a partir de hoje vou colecionar provas de processos seletivos <i>haha<i/></p>
 <p>A proposta foi a seguinte:<p>
 
-<p>Crie um formulário onde um usuário possa inserir registros
+<i><p>Crie um formulário onde um usuário possa inserir registros
 de encomendas. Uma encomenda deve possuir as informações:
 Identificador, Volume em M³ e Valor do frete. Não é
-necessário salvar os dados em banco.</p>
+necessário salvar os dados em banco.</p></i>
 
-<p>Neste mesmo formulário, crie uma nova seção para entrada de
+<i><p>Neste mesmo formulário, crie uma nova seção para entrada de
 dados de um veículo que irá transportar um subconjunto
 dessas encomendas. Um veículo deve possuir Placa e a
-capacidade (volume de carga) de transporte.</p>
+capacidade (volume de carga) de transporte.</p></i>
 
-<p>Um botão deverá calcular, utilizando a lista de encomendas
+<i><p>Um botão deverá calcular, utilizando a lista de encomendas
 cadastradas, qual combinação de itens compõe o frete de
-maior valor possível para esse caminhão.</p>
+maior valor possível para esse caminhão.</p></i>
 
-<p>Os candidatos deverão utilizar pelo menos 1 (uma) das
-tecnologias abaixo:</p>
+<i><p>Os candidatos deverão utilizar pelo menos 1 (uma) das
+tecnologias abaixo:</p></i>
 <ul>
-  <li>WPF (Windows Presentation Foundation)</li>
-  <li>ASP.NET MVC </li>
+  <li><i>WPF (Windows Presentation Foundation)</i></li>
+  <li><i>ASP.NET MVC</i></li>
 </ul>
+
+<p>Para rodar o projeto, basta ter o Visual Studio com o módulo de desnvolvimento <i>ASP.NET</i> instalado.</p>
 <p>Screenshots do resultado:</p>
-<ol>
-  <li><img src="https://i.imgur.com/1NUREGj.png"></li>
-  <li><img src="https://i.imgur.com/kgzKur4.png"></li>
-</ol>
+<p><img src="https://i.imgur.com/1NUREGj.png"></p>
+<hr>
+<p><img src="https://i.imgur.com/kgzKur4.png"></p>
+
 
 
 
