@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automind Encomendas", "Automind Encomendas.csproj", "{BF78A45B-CA53-4F2A-84B0-913A3A37755E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF78A45B-CA53-4F2A-84B0-913A3A37755E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF78A45B-CA53-4F2A-84B0-913A3A37755E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF78A45B-CA53-4F2A-84B0-913A3A37755E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF78A45B-CA53-4F2A-84B0-913A3A37755E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF58FAC2-6006-4E18-937F-8132FC8ADA3A}
+	EndGlobalSection
+EndGlobal
