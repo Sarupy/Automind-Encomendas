@@ -28,7 +28,7 @@ tecnologias abaixo:</p></i>
   <li><i>ASP.NET MVC</i></li>
 </ul>
 <hr>
-<p>Para rodar o projeto, basta ter o <b>Visual Studio<b> com o módulo de desnvolvimento <i><b>ASP.NET</b></i> instalado.</p>
+<p>Para rodar o projeto, basta ter o <b>Visual Studio/<b> com o módulo de desnvolvimento <i><b>ASP.NET</b></i> instalado.</p>
 <p>Screenshots do resultado:</p>
 <p><img src="https://i.imgur.com/1NUREGj.png"></p>
 <hr>
