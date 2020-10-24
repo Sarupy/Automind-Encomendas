@@ -5,7 +5,8 @@
 <p>Concluindo: eu gostei muito da experiência e me diverti bastante, acho que a partir de hoje vou colecionar provas de processos seletivos <i>haha<i/></p>
    
 <p>A proposta foi a seguinte:<p>
-
+<hr>
+ 
 <i><p>Crie um formulário onde um usuário possa inserir registros
 de encomendas. Uma encomenda deve possuir as informações:
 Identificador, Volume em M³ e Valor do frete. Não é
@@ -26,7 +27,7 @@ tecnologias abaixo:</p></i>
   <li><i>WPF (Windows Presentation Foundation)</i></li>
   <li><i>ASP.NET MVC</i></li>
 </ul>
-
+<hr>
 <p>Para rodar o projeto, basta ter o <b>Visual Studio<b> com o módulo de desnvolvimento <i><b>ASP.NET</b></i> instalado.</p>
 <p>Screenshots do resultado:</p>
 <p><img src="https://i.imgur.com/1NUREGj.png"></p>
