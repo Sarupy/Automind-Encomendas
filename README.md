@@ -3,6 +3,7 @@
 <p>Como salvar as informações em banco de dadas não era obrigatório, eu resolvi salvar em um arquivo JSON, que daria menos trabalho pra quem fosse avaliar (não precisaria preparar nenhum ambiente).</p>
 <p>A parte de cálculo foi a que mais deu dor de cabeça, a lógica é um pouco complicada. Já a interface ficou <b>muito</b> linda, sinceramente uma das melhores que eu já fiz.</p>
 <p>Concluindo: eu gostei muito da experiência e me diverti bastante, acho que a partir de hoje vou colecionar provas de processos seletivos <i>haha<i/></p>
+   
 <p>A proposta foi a seguinte:<p>
 
 <i><p>Crie um formulário onde um usuário possa inserir registros
@@ -26,7 +27,7 @@ tecnologias abaixo:</p></i>
   <li><i>ASP.NET MVC</i></li>
 </ul>
 
-<p>Para rodar o projeto, basta ter o Visual Studio com o módulo de desnvolvimento <i>ASP.NET</i> instalado.</p>
+<p>Para rodar o projeto, basta ter o <b>Visual Studio<b> com o módulo de desnvolvimento <i><b>ASP.NET</b></i> instalado.</p>
 <p>Screenshots do resultado:</p>
 <p><img src="https://i.imgur.com/1NUREGj.png"></p>
 <hr>
