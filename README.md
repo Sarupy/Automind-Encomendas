@@ -1,7 +1,7 @@
 # Automind-Encomendas
 tags: [asp.net core] [responsivo]
 <br>
-<p>Um aplicativo web que eu criei usando a tecnologia ASP.NET para um processo seletivo onde o resultado ficou melhor do que eu esperava.</p>
+<p>Um aplicativo web que eu criei usando a tecnologia ASP.NET para um processo seletivo onde eu gostei do resultado.</p>
 <p>Como salvar as informações em banco de dadas não era obrigatório, eu resolvi salvar em um arquivo JSON, que daria menos trabalho pra quem fosse avaliar (não precisaria preparar nenhum ambiente).</p>
 <p>A proposta foi a seguinte:<p>
 <hr>
